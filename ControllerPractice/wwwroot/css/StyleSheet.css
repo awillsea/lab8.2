@@ -1,0 +1,18 @@
+﻿body {
+    color:lightcoral;
+}
+
+.btn{
+    border:thick;
+    border-block-color:red;
+}
+.btn:hover{
+    background-color:purple;
+}
+.randomclass {
+    width:10%;
+    transition: transform 2s ease 0s;
+}
+.randomclass:hover {
+        transform: rotate(-180deg);
+}
